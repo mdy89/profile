@@ -1,5 +1,5 @@
-Minsu Kim
+Profile page for Minsu Kim
 =================
 
-Source for my GitHub Pages portfolio site https://mdy89.github.io/profile/
+https://mdy89.github.io/profile/
 
