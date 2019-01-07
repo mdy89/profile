@@ -1,0 +1,20 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+    {% seo %}
+  </head>
+  <body>
+    <div class="nav-toggle"><i class="fa fa-bars fa-2x"></i>Kyuri Jo</div>
+    <div id = "wrapper">
+      {%include navigation.html %}
+      <div class="container">
+        {{ content }}
+      </div>
+      {% include footer.html %}
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>
